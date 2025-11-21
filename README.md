@@ -9,11 +9,17 @@ This dashboard visualizes real-time weather conditions and air quality metrics f
 **✨Features**
 
 Live weather data (temperature, conditions, visibility, humidity)
+
 7-day forecast with interactive visuals
+
 Sunrise & sunset timings
+
 Air Quality Index (AQI) card
+
 Pollutant breakdown (PM2.5, PM10, SO₂, NO₂, CO, O₃)
+
 City selector for comparing multiple locations
+
 Clean UI inspired by weather applications
 
 **🛠️ Built With**
