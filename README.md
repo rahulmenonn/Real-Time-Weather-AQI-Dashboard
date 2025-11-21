@@ -8,35 +8,42 @@ This dashboard visualizes real-time weather conditions and air quality metrics f
 
 **✨Features**
 
-Live weather data (temperature, conditions, visibility, humidity)
+• Live weather data (temperature, conditions, visibility, humidity)
 
-7-day forecast with interactive visuals
+• 7-day forecast with interactive visuals
 
-Sunrise & sunset timings
+• Sunrise & sunset timings
 
-Air Quality Index (AQI) card
+• Air Quality Index (AQI) card
 
-Pollutant breakdown (PM2.5, PM10, SO₂, NO₂, CO, O₃)
+• Pollutant breakdown (PM2.5, PM10, SO₂, NO₂, CO, O₃)
 
-City selector for comparing multiple locations
+• City selector for comparing multiple locations
 
-Clean UI inspired by weather applications
+• Clean UI inspired by weather applications
 
 **🛠️ Built With**
 
-Power BI Desktop
-Power Query for data transformation
-DAX for calculations
-REST API for fetching real-time data
+• Power BI Desktop
+
+• Power Query for data transformation
+
+• DAX for calculations
+
+• REST API for fetching real-time data
 
 **📁 Repository Contents**
 
-Real Time Weather Dashboard.pbix — Power BI report
-/screenshots/ — sample dashboard images
+• Real Time Weather Dashboard.pbix — Power BI report
+
+• /screenshots/ — sample dashboard images
 
 **🎯 Purpose**
 
-This was created as a practice project to strengthen my understanding of:
-Working with API data in Power BI
-Data modeling and transformations
-Designing intuitive, user-centered dashboards
+• This was created as a practice project to strengthen my understanding of:
+
+• Working with API data in Power BI
+
+• Data modeling and transformations
+
+• Designing intuitive, user-centered dashboards
