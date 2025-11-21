@@ -1,3 +1,5 @@
+Real-Time Weather & AQI Dashboard
+
 A simple practice project built using Power BI, showcasing how real-time API data can be transformed into an interactive analytics dashboard.
 
 📊 Overview
